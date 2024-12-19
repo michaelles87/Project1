@@ -46,7 +46,7 @@ The NYC Airbnb Analysis Project examines data from Airbnb listings to uncover in
 
 ## 📊 Visual Features
 ### Executive Summary Screenshot
-![Executive Summary Screenshot](https://your_image_url_placeholder.com) *(Replace with an actual screenshot of your spreadsheet or visual)*
+![Executive Summary Screenshot](https://i.postimg.cc/tJ649TQ3/Screenshot-2024-12-19-at-1-25-45-PM.png) 
 
 ---
 
